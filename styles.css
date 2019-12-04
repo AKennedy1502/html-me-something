@@ -1,0 +1,29 @@
+body {
+	width: 100%;
+	max-width: 1024px;
+	margin: 0 auto;
+    background-color: blueviolet
+    	
+}
+
+header,
+main,
+footer {
+	background-color: blueviolet
+	
+}
+
+header {
+	padding: 1.875em 0;
+}
+
+h1 {
+	text-align: center;
+}
+
+#intro {
+    text-align: center;
+}
+#img-right {
+    align: right
+}
