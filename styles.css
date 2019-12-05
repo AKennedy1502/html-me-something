@@ -2,15 +2,15 @@ body {
 	width: 100%;
 	max-width: 1024px;
 	margin: 0 auto;
-    background-color: blueviolet
-    	
+    background-color: rgb(16, 16, 87);
+
 }
 
 header,
 main,
 footer {
-	background-color: blueviolet
-	
+    background-color:  rgb(16, 16, 87);
+    
 }
 
 header {
@@ -18,12 +18,21 @@ header {
 }
 
 h1 {
-	text-align: center;
+    text-align: center;
+    color:rgb(243, 102, 102);
 }
-
+h2 {
+    color: rgb(243, 102, 102);
+}
+p,
+figcaption {
+    color: white;
+    font-size: large;
+}
 #intro {
     text-align: center;
-}
-#img-right {
-    align: right
-}
+    font-size: large;
+
+
+footer {
+    text-align: center;
