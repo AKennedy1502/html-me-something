@@ -29,10 +29,13 @@ figcaption {
     color: white;
     font-size: large;
 }
-#intro {
-    text-align: center;
-    font-size: large;
 
-
+figcaption {
+    font-style: italic;
+}
 footer {
     text-align: center;
+}
+.intro {
+    text-align: center;
+    font-size: large;
